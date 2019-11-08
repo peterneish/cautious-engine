@@ -1,0 +1,16 @@
+Type: Compendium
+Package: cautious-engine
+Title: Wheight of apples has a normal distribution
+Version: 0.0.1
+Authors@R: 
+    person(given = "Peter",
+           family = "Neish",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A simple example for the tutorial
+License: What license it uses
+Depends: 
+    ggplot2
+Encoding: UTF-8
+LazyData: true
