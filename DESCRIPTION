@@ -9,7 +9,7 @@ Authors@R:
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: A simple example for the tutorial
-License: What license it uses
+License: MIT + file LICENSE
 Depends: 
     ggplot2
 Encoding: UTF-8

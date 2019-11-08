@@ -17,4 +17,5 @@ ggplot2::ggplot(apples, aes(weight)) + geom_histogram()
 dev.off() # turns off the plot device
 
 # we ran some of these commands in the tutorial
-#usethis::use_readme_md()
+#u sethis::use_readme_md()
+# usethis::use_mit_license(name = "Peter Neish")
